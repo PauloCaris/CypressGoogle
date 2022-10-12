@@ -1,0 +1,22 @@
+{
+  "name": "cypressgoogle",
+  "version": "1.0.0",
+  "description": "Automatización con Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloCaris/CypressGoogle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloCaris/CypressGoogle/issues"
+  },
+  "homepage": "https://github.com/PauloCaris/CypressGoogle#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
